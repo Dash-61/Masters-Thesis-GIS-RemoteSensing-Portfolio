@@ -1,11 +1,17 @@
-# Masters-Thesis-GIS-RemoteSensing-Portfolio
-Geospatial analysis of carbon storage and LULC dynamics in Kamalganj, Bangladesh, utilizing InVEST modeling and Landsat 9 Remote Sensing for REDD+ readiness.
+# Masters Thesis GIS & Remote Sensing Portfolio
 
-### 1. Land Use Land Cover (LULC) Map 2024
-![LULC Map](./LULC_Map_2024.jpg) 
+## Introduction
 
-### 2. Carbon Storage Hotspots
-![Carbon Hotspot Map](./Carbon_Hotspots.jpg)
+This repository contains my project portfolio for GIS and Remote Sensing applications. It showcases various projects I have worked on during my Master's program.
 
-### 3. Biophysical Data
-*   **[Biophysical Table](./Biophysical_Table.xlsx)**: Input coefficients for all four carbon pools.
+## Projects
+
+- **Project 1**: Description of project 1.
+- **Project 2**: Description of project 2.
+- **Project 3**: Description of project 3.
+
+... (other sections as previously included)
+
+## Acknowledgments
+
+I would like to thank my advisors and colleagues for their support throughout my studies.
